@@ -7,7 +7,7 @@ with adaptive attention fusion for rice leaf disease classification (8 classes, 
 
 ## Dataset
 Download the dataset (2560 images, 8 classes) from:
-👉 [Your Google Drive / Kaggle link here]
+(https://drive.google.com/drive/folders/1FLfSiRuPap455ry_7XUeXPoLIB4-7ofV?usp=sharing)]
 
 After downloading, place it in your Google Drive and update the `INPUT_DIR` path 
 in the notebook accordingly.
