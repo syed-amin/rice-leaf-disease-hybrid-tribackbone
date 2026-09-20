@@ -31,6 +31,6 @@ See `requirements.txt` — installed automatically in the first notebook cell.
 | **Hybrid (Proposed)** | **97.66%** |
 
 ## Authors
-Your Name, Syed Amin Hussain, Al-Arafat Hossain Shabbir  
+Syed Amin Hussain, Al-Arafat Hossain Shabbir  
 Supervisor: Samia Rahman Rima  
 Metropolitan University, Sylhet
